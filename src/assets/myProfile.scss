@@ -1,0 +1,63 @@
+// .profile-pic {
+//   border-radius: 50%;
+//   height: 150px;
+//   width: 150px;
+//   background-size: cover;
+//   background-position: center;
+//   background-blend-mode: multiply;
+//   vertical-align: middle;
+//   text-align: center;
+//   color: transparent;
+//   transition: all 0.3s ease;
+//   text-decoration: none;
+//   cursor: pointer;
+// }
+
+// .profile-pic:hover {
+//   background-color: rgba(0, 0, 0, 0.5);
+//   z-index: 10000;
+//   text-decoration: none;
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   color: transparent;
+//   position: relative;
+//   transition: all 0.3s ease;
+//   /* background-image: url("https://img.icons8.com/material-outlined/24/000000/pencil--v1.png"); */
+// }
+
+// .profile-pic img {
+//   position: absolute;
+//   object-fit: cover;
+//   width: 150px;
+//   height: 150px;
+//   box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.35);
+//   border-radius: 100px;
+//   z-index: 0;
+// }
+
+// .profile-pic .a-label {
+//   cursor: pointer;
+//   height: 150px;
+//   width: 150px;
+// }
+// .profile-pic:hover .a-label {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   background-color: rgba(0, 0, 0, 0.8);
+//   z-index: 10000;
+//   transition: background-color 0.2s ease-in-out;
+//   border-radius: 100px;
+//   margin-bottom: 0;
+// }
+
+// .profile-pic span {
+//   display: inline-block;
+//   padding-top: 4.5em;
+//   padding-bottom: 4.5em;
+// }
+// #fileToUpload {
+//   display: none;
+//   cursor: pointer;
+// }
